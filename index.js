@@ -60,4 +60,5 @@ function newGame() {
   sum = 0;
   cardsEl.textContent = "Cards: ";
   sumEl.textContent = "Sum: ";
+  messageEl.textContent = "Do you want to play?";
 }
