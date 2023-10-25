@@ -1,2 +1,3 @@
 # blackjack_project
- basic blackjack game
+
+basic blackjack game - Scrimba
